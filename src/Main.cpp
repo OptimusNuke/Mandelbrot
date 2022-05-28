@@ -8,7 +8,7 @@ int main()
 	// create window
 	Window window = { 2560, 1440, "Mandelbrot", true };
 
-	Shader shaders = { "./mandelbrot_shader.vs", "./mandelbrot_shader.fs" };
+	Shader shaders = { "./src/shader/mandelbrot_shader.vs", "./src/shader/mandelbrot_shader.fs" };
 
 	// create vertice	-	two triangles to fill the entire screen
 	float vertices_triangles[] = {

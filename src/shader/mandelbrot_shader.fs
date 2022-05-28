@@ -9,7 +9,7 @@ out vec4 FragColor;
 uniform vec3 mb_area;	//transform-x - transform-y - area_width
 uniform vec2 cpixel;	//center-pixel to zoom in on
 
-const int max_iterations = 500;
+const int max_iterations = 600;
 
 //functions
 int calc_iterations(double coord_x, double coord_y);
@@ -112,8 +112,9 @@ vec4 color_from_iterations(int it)
 		b = b + 1;
 	}
 
-	return vec4(color_picker_helper(r) ,
+	return vec4(color_picker_helper(r),
 				color_picker_helper(g),
+				//1.0f,
 				color_picker_helper(b),
 				1.0f);
 	
