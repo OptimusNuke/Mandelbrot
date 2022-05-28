@@ -18,3 +18,12 @@ It sure payed off!
 
 ### Some impressions of my work
 
+![Mandelbrot 1](pictures/Mandelbrot_1.jpg/?raw=true "Mandelbrot 1")
+
+![Mandelbrot 2](pictures/Mandelbrot_2.jpg/?raw=true "Mandelbrot 2")
+
+![Mandelbrot 3](pictures/Mandelbrot_3.jpg/?raw=true "Mandelbrot 3")
+
+![Mandelbrot 4](pictures/Mandelbrot_4.jpg/?raw=true "Mandelbrot 4")
+
+![Mandelbrot 5](pictures/Mandelbrot_5.jpg/?raw=true "Mandelbrot 5")
