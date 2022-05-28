@@ -143,17 +143,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C:\libraries\GL\glad\src\glad.c" />
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Shader.cpp" />
-    <ClCompile Include="Window.cpp" />
+    <ClCompile Include="src\Main.cpp" />
+    <ClCompile Include="src\shader\Shader.cpp" />
+    <ClCompile Include="src\window\Window.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="mandelbrot_shader.fs" />
-    <None Include="mandelbrot_shader.vs" />
+    <None Include="src\shader\mandelbrot_shader.fs" />
+    <None Include="src\shader\mandelbrot_shader.vs" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Shader.h" />
-    <ClInclude Include="Window.h" />
+    <ClInclude Include="src\shader\Shader.h" />
+    <ClInclude Include="src\window\Window.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
