@@ -30,6 +30,8 @@
     <None Include="src\shader\mandelbrot_shader.fs">
       <Filter>shader</Filter>
     </None>
+    <None Include=".gitattributes" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\shader\Shader.h">

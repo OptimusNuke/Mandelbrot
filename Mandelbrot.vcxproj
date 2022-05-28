@@ -148,6 +148,8 @@
     <ClCompile Include="src\window\Window.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitattributes" />
+    <None Include="README.md" />
     <None Include="src\shader\mandelbrot_shader.fs" />
     <None Include="src\shader\mandelbrot_shader.vs" />
   </ItemGroup>
