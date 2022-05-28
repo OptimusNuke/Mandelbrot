@@ -16,7 +16,7 @@ While this experience definitely was worth my time, I would rather use another a
 In the end, I learned to stick to a project I want to finnish and to do the work.
 It sure payed off!
 
-### Some impressions of my work
+### Some impressions, generated with my application
 
 ![Mandelbrot 1](pictures/Mandelbrot_1.jpg/?raw=true "Mandelbrot 1")
 
